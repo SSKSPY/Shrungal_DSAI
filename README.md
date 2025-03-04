@@ -33,6 +33,6 @@
 ---
 
 ### 📫 Connect with Me:
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shrungal-kulkarni-84a3681a1/)) | 📈 [Kaggle]([https://www.kaggle.com/your-username](https://www.kaggle.com/shrungal)) | 📧 [Email](mailto:your-shrungalkulkarni30@gmail.com)  
+🔗 [LinkedIn]((https://www.linkedin.com/in/shrungal-kulkarni-84a3681a1/)) | 📈 [Kaggle]((https://www.kaggle.com/shrungal)) | 📧 [Email](mailto:your-shrungalkulkarni30@gmail.com)  
 
 ⭐ **Star** your favorite repositories if they inspire you! Let's build something amazing together! 🚀  
