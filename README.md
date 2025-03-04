@@ -1,10 +1,11 @@
-# Shrungal_DSAI
 # Hi there, I'm Shrungal! 👋  
 
 🚀 **Aspiring Data Engineer & AI Applications Enthusiast**  
 💡 Passionate about AI, ML, and scalable data solutions  
 📊 Exploring Data Engineering, MLOps, and AI-powered applications  
 🔍 Always curious—transforming data into insights & impact!  
+
+---
 
 ## 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,22 +18,36 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-
-## 📌 Pinned Projects:
-### 🚀 AI & ML Projects  
-🔹 [**Project 1: AI-powered Chatbot**](https://github.com/your-username/chatbot) - NLP-based chatbot for financial insights  
-🔹 [**Project 2: Customer Churn Prediction**](https://github.com/your-username/churn-prediction) - ML model predicting customer churn for a utility company  
-
-### 🛠 Data Engineering Projects  
-🔹 [**Project 3: Data Pipeline with Apache Spark**](https://github.com/your-username/spark-pipeline) - ETL pipeline for large-scale data processing  
-🔹 [**Project 4: Real-time Data Streaming with Kafka**](https://github.com/your-username/kafka-streaming) - Processing real-time data streams  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrungal-ai&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrungal-ai&layout=compact&theme=tokyonight)  
 
 ---
 
-### 📫 Connect with Me:
-🔗 [LinkedIn]((https://www.linkedin.com/in/shrungal-kulkarni-84a3681a1/)) | 📈 [Kaggle]((https://www.kaggle.com/shrungal)) | 📧 [Email](mailto:your-shrungalkulkarni30@gmail.com)  
+## 📌 Pinned Projects:
+### 🚀 AI & ML Projects  
+🔹 [**AI-powered Financial Chatbot**](https://github.com/shrungal-ai/financial-chatbot)  
+💬 NLP chatbot that extracts insights from **10-K & 10-Q financial reports**  
 
-⭐ **Star** your favorite repositories if they inspire you! Let's build something amazing together! 🚀  
+🔹 [**Customer Churn Prediction**](https://github.com/shrungal-ai/churn-prediction)  
+📉 Predicts customer churn using **XGBoost & ML models**, helping businesses retain users  
+
+---
+
+### 🛠 Data Engineering Projects  
+🔹 [**Data Pipeline with Apache Spark**](https://github.com/shrungal-ai/spark-pipeline)  
+🔄 End-to-end **ETL pipeline** that cleans, transforms & loads large datasets  
+
+🔹 [**Real-time Data Streaming with Kafka**](https://github.com/shrungal-ai/kafka-streaming)  
+⚡ Processes **real-time data streams** for high-speed analytics  
+
+---
+
+## 📫 Connect with Me:
+🔗 [**LinkedIn**](https://www.linkedin.com/in/shrungal-kulkarni-84a3681a1/)  
+📈 [**Kaggle**](https://www.kaggle.com/shrungal)  
+📧 [**Email**](mailto:shrungalkulkarni30@gmail.com)  
+
+⭐ **Star** your favorite repositories if they inspire you! Let's build something amazing together! 🚀
