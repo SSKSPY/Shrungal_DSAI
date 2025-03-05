@@ -20,9 +20,11 @@
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSKSPY&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSKSPY&layout=compact&theme=tokyonight)   
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrungal-DSAI&show_icons=true&theme=tokyonight)
+
+## 🔥 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrungal-DSAI&layout=compact&theme=tokyonight)
 
 ---
 
